@@ -34,3 +34,13 @@ Each test case is an integer number with the person's age in seconds.
 
 2
 
+## Command line execution candles
+
+If the classes have been created run the following command from the project folder:
+
+java -cp target/classes org.example.candles
+
+After recieving a .jar file:
+
+java -cp target/BasicProject-1.0-SNAPSHOT.jar org.example.candles
+
