@@ -4,6 +4,9 @@ package org.example;
 import java.util.Scanner;
 
 public class candles {
+    /**
+     * Calculates the number of 1 bits in a series of numbers representing the age entered on the keyboard
+     */
     public static void main(String[] args) {
         Scanner entrada= new Scanner(System.in);
         int casos= entrada.nextInt();
