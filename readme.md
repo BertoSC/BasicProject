@@ -40,6 +40,9 @@ If the classes have been created run the following command from the project fold
 
 java -cp target/classes org.example.candles
 
+java -cp target/classes org.example.BirthdayArgs
+(args version)
+
 After recieving a .jar file:
 
 java -cp target/BasicProject-1.0-SNAPSHOT.jar org.example.candles
